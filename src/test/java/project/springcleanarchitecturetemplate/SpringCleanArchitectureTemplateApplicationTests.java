@@ -1,4 +1,4 @@
-package kr.chuyong.springcleanarchitecturetemplate;
+package project.springcleanarchitecturetemplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
